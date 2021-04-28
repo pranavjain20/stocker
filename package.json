@@ -1,0 +1,23 @@
+{
+  "name": "joyho796-stock-ticker",
+  "version": "1.0.0",
+  "description": "stock ticker app",
+  "main": "stockTickerApp.js",
+  "scripts": {
+    "start": "node stockTickerApp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joyho796/assignment14.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "index.html",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6"
+  }
+}
